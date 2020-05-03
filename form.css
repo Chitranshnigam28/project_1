@@ -1,0 +1,22 @@
+body{
+	background-image: url("bg1.jpg") ;
+	background-image: linear-gradient(black);
+}
+h1{
+	color: white;
+}
+label{
+	color: white;
+}
+#backbtn{
+	color: white;
+}
+.btn-group{
+	margin-left: 30%;
+}
+a{
+	color:white;
+}
+hr{
+	font-weight: bold;
+}
